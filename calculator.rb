@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = "sock"
+first_number = 10
